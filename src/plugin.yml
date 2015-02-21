@@ -1,0 +1,7 @@
+name: SpeedUHC
+main: pluginminecraft.SpeedUHC
+version: 1.0
+commands:
+    uhc:
+        description: Commandes pour l'uhc
+        usage: /<command> <arg1>
